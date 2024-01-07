@@ -3,7 +3,7 @@
 
 int main(void){
 	printf("This is version 114514");
-	//This is Main Dev
+	//This is a conflict branch
 	return 0;
 
 }
